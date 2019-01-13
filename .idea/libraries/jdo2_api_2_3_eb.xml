@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jdo2-api-2.3-eb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jdo2-api-2.3-eb.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
