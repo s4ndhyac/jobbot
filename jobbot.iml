@@ -44,5 +44,41 @@
     <orderEntry type="library" name="google-oauth-client-appengine-1.24.1" level="project" />
     <orderEntry type="library" name="jdo2-api-2.3-eb" level="project" />
     <orderEntry type="library" name="jsr305-3.0.2" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.8.1 (2)" level="project" />
+    <orderEntry type="library" name="activation (2)" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-gson-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-jackson2-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-java6-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-protobuf-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-servlet-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-client-xml-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-api-services-sheets-v4-rev553-1.25.0 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-appengine-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-gson-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-jackson2-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-jackson-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-jdo-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-protobuf-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-http-client-xml-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-oauth-client-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-oauth-client-appengine-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-oauth-client-java6-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-oauth-client-jetty-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="google-oauth-client-servlet-1.24.1 (2)" level="project" />
+    <orderEntry type="library" name="gson-2.1 (2)" level="project" />
+    <orderEntry type="library" name="guava-20.0 (2)" level="project" />
+    <orderEntry type="library" name="httpclient-4.5.3 (2)" level="project" />
+    <orderEntry type="library" name="httpcore-4.4.6 (2)" level="project" />
+    <orderEntry type="library" name="jackson-core-2.9.2 (2)" level="project" />
+    <orderEntry type="library" name="jackson-core-asl-1.9.11 (2)" level="project" />
+    <orderEntry type="library" name="javax.mail (2)" level="project" />
+    <orderEntry type="library" name="jdo2-api-2.3-eb (2)" level="project" />
+    <orderEntry type="library" name="jetty-6.1.26 (2)" level="project" />
+    <orderEntry type="library" name="jetty-util-6.1.26 (2)" level="project" />
+    <orderEntry type="library" name="jsr305-3.0.2 (2)" level="project" />
+    <orderEntry type="library" name="protobuf-java-2.6.1 (2)" level="project" />
   </component>
 </module>
