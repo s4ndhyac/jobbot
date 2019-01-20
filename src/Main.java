@@ -11,7 +11,6 @@ import javax.mail.internet.MimeMultipart;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 
@@ -53,6 +52,7 @@ public class Main {
         StrSubstitutor sub = new StrSubstitutor(h);
         body = sub.replace(body);
 
+        //TODO: Uncomment sendFromGMail(from, pass, h.get("email"), subject, body, name);
         sendFromGMail(from, pass, to, subject, body, name);
 
 

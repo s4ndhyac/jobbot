@@ -15,23 +15,22 @@ public class GSheet {
         sheetsService = SheetsServiceUtil.getSheetsService();
         Map<String, String> h = new HashMap<>();
 
-        String range = "B2:F3";
+        String range = "C2:H183";
         ValueRange response = sheetsService.spreadsheets().values()
                 .get(SPREADSHEET_ID, range)
                 .execute();
         List<List<Object>> values = response.getValues();
 
         for (List row : values) {
-            // Print columns B and F, which correspond to indices 0 and 4.
-            System.out.printf("%s, %s\n", row.get(0), row.get(4));
-            h.put("company", row.get(0).toString());
-            h.put("mission", row.get(4).toString());
+            if(row.get(2).toString() == "1")
+            {
+                System.out.printf("%s, %s\n", row.get(0), row.get(4));
+                h.put("company", row.get(0).toString());
+                h.put("email", row.get(1).toString());
+                h.put("mission", row.get(5).toString());
+            }
         }
         return h;
-
-
-
-
     }
 
 }
